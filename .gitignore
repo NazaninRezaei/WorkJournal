@@ -1,0 +1,11 @@
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.creator.*
+*.autosave
+*XJet_zh_CN*
+.clang-format
+*.qtcreator*
+*importedcontent*
+*build*
